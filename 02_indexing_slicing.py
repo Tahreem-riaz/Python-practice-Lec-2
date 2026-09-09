@@ -51,3 +51,10 @@ print(word[-2])    # E
 # ==========================================
 # PART B: SLICING
 # ==========================================
+
+# Q3. Create a string containing a full sentence.
+#
+#     Use slicing to extract:
+#     - The first five characters
+#     - A middle portion
+#     - The last five characters
