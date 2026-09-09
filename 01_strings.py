@@ -33,3 +33,9 @@ print("Description:", description)
 #
 #     Print the sentence using both single quotes
 #     and double quotes.
+
+sentence1 = 'Python makes programming interesting.'
+sentence2 = "Python makes programming interesting."
+
+print(sentence1)
+print(sentence2)
