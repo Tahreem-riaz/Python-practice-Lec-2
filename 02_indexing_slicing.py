@@ -95,3 +95,12 @@ word = "Computer"
 print(word[-1])    # Last character
 print(word[-2])    # Second-last character
 print(word[-3])    # Third-last character
+
+# ------------------------------------------
+
+# Q6. Create a string containing:
+#
+#     "Programming"
+#
+#     Use negative slicing to extract the last four
+#     characters.
