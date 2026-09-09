@@ -78,3 +78,14 @@ word = "Programming"
 print(word[::2])    # Every second character
 print(word[::3])    # Every third character
 
+# ==========================================
+# PART C: NEGATIVE INDEXING & SLICING
+# ==========================================
+
+# Q5. Create a string containing a programming-related
+#     word.
+#
+#     Use negative indexes to print:
+#     - Last character
+#     - Second-last character
+#     - Third-last character
