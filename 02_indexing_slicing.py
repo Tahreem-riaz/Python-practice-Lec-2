@@ -89,3 +89,9 @@ print(word[::3])    # Every third character
 #     - Last character
 #     - Second-last character
 #     - Third-last character
+
+word = "Computer"
+
+print(word[-1])    # Last character
+print(word[-2])    # Second-last character
+print(word[-3])    # Third-last character
