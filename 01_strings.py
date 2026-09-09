@@ -105,3 +105,12 @@ print("Uppercase:", uppercase_name)
 #
 #     Use an appropriate string method to count how
 #     many times "Python" appears.
+
+sentence = "Python is easy. Python is powerful. I enjoy learning Python."
+
+python_count = sentence.count("Python")
+
+print("Number of times Python appears:", python_count)
+
+# ------------------------------------------
+
