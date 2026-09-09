@@ -53,3 +53,13 @@ print(sentence2)
 #     - New lines
 #
 #     Use \n and \t.
+
+print("===== MENU =====\n")
+print("1.\tPython")
+print("2.\tJava")
+print("3.\tC++")
+print("4.\tJavaScript")
+
+# ------------------------------------------
+
+
