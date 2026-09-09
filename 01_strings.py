@@ -39,3 +39,7 @@ sentence2 = "Python makes programming interesting."
 
 print(sentence1)
 print(sentence2)
+
+# ==========================================
+# PART B: ESCAPE SEQUENCES
+# ==========================================
