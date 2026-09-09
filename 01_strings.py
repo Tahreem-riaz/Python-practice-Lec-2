@@ -86,3 +86,16 @@ print("The teacher said, \"Practice Python every day.\"")
 #     - Convert it to uppercase
 #
 #     Print each result.
+
+name = "   AlEx JoHn   "
+
+clean_name = name.strip()
+lowercase_name = clean_name.lower()
+uppercase_name = clean_name.upper()
+
+print("Original:", name)
+print("Without Extra Spaces:", clean_name)
+print("Lowercase:", lowercase_name)
+print("Uppercase:", uppercase_name)
+
+# ------------------------------------------
