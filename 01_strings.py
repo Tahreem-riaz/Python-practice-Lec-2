@@ -16,3 +16,13 @@ Topics: Strings, String Methods, Escape Sequences
 #     - A short description
 #
 #     Print all three strings.
+
+book_title = "Python Programming"
+author_name = "John Smith"
+description = "A beginner-friendly book about Python programming."
+
+print("Book Title:", book_title)
+print("Author:", author_name)
+print("Description:", description)
+
+# ------------------------------------------
