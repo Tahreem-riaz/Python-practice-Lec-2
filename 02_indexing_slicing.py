@@ -108,3 +108,7 @@ print(word[-3])    # Third-last character
 word = "Programming"
 
 print(word[-4:])
+
+# ==========================================
+# PART D: CHALLENGE
+# ==========================================
