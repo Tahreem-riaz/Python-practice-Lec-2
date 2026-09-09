@@ -62,4 +62,12 @@ print("4.\tJavaScript")
 
 # ------------------------------------------
 
+# Q4. Create a string containing quotation marks
+#     inside it.
+#
+#     Print a sentence similar to:
+#
+#     The teacher said, "Practice Python every day."
+#
+#     Use an appropriate escape sequence.
 
