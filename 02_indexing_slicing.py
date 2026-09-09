@@ -17,3 +17,9 @@ Topics: Indexing, Slicing, Negative Indexing,
 #     - First character
 #     - Third character
 #     - Last character
+
+language = "Python"
+
+print(language[0])    # First character
+print(language[2])    # Third character
+print(language[-1])   # Last character
