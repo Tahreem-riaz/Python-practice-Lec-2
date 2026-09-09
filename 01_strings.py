@@ -99,3 +99,9 @@ print("Lowercase:", lowercase_name)
 print("Uppercase:", uppercase_name)
 
 # ------------------------------------------
+
+# Q6. Create a sentence containing the word "Python"
+#     several times.
+#
+#     Use an appropriate string method to count how
+#     many times "Python" appears.
