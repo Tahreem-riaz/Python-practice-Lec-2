@@ -43,3 +43,13 @@ print(sentence2)
 # ==========================================
 # PART B: ESCAPE SEQUENCES
 # ==========================================
+
+# Q3. Print a small menu using escape sequences.
+#
+#     Your output should contain:
+#     - A heading
+#     - At least three items
+#     - Tabs or spacing
+#     - New lines
+#
+#     Use \n and \t.
