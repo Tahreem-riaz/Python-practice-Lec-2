@@ -10,3 +10,10 @@ Topics: Indexing, Slicing, Negative Indexing,
 # ==========================================
 # PART A: INDEXING
 # ==========================================
+
+# Q1. Store a programming language in a variable.
+#
+#     Print:
+#     - First character
+#     - Third character
+#     - Last character
