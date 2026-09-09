@@ -114,3 +114,10 @@ print("Number of times Python appears:", python_count)
 
 # ------------------------------------------
 
+# Q7. Create a sentence containing a specific word.
+#
+#     Use a string method to replace that word with
+#     another word.
+#
+#     Print the original and modified sentences.
+
