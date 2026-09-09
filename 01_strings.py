@@ -121,3 +121,11 @@ print("Number of times Python appears:", python_count)
 #
 #     Print the original and modified sentences.
 
+original_sentence = "I am learning Python."
+modified_sentence = original_sentence.replace("Python", "Java")
+
+print("Original Sentence:", original_sentence)
+print("Modified Sentence:", modified_sentence)
+
+# ==========================================
+
