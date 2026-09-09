@@ -23,3 +23,17 @@ language = "Python"
 print(language[0])    # First character
 print(language[2])    # Third character
 print(language[-1])   # Last character
+
+# ------------------------------------------
+
+# Q2. Use the following string:
+#
+#     word = "COMPUTER"
+#
+#     Access and print the characters at:
+#     index 1
+#     index 4
+#     index 6
+#
+#     Then access the same positions using negative
+#     indexes where possible.
