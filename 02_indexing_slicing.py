@@ -72,3 +72,9 @@ print(sentence[-5:])     # Last five characters
 #     Use slicing with a step value to:
 #     - Print every second character
 #     - Print every third character
+
+word = "Programming"
+
+print(word[::2])    # Every second character
+print(word[::3])    # Every third character
+
