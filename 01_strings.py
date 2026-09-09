@@ -26,3 +26,10 @@ print("Author:", author_name)
 print("Description:", description)
 
 # ------------------------------------------
+
+# Q2. Create the following sentence using a string:
+#
+#     Python makes programming interesting.
+#
+#     Print the sentence using both single quotes
+#     and double quotes.
