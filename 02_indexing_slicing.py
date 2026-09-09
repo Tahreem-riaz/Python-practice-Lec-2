@@ -66,3 +66,9 @@ print(sentence[7:13])    # Middle portion
 print(sentence[-5:])     # Last five characters
 
 # ------------------------------------------
+
+# Q4. Store a word in a variable.
+#
+#     Use slicing with a step value to:
+#     - Print every second character
+#     - Print every third character
