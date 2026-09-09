@@ -76,3 +76,13 @@ print("The teacher said, \"Practice Python every day.\"")
 # ==========================================
 # PART C: STRING METHODS
 # ==========================================
+
+# Q5. Create a string containing a person's name
+#     with unnecessary spaces and mixed capitalization.
+#
+#     Use string methods to:
+#     - Remove extra spaces
+#     - Convert it to lowercase
+#     - Convert it to uppercase
+#
+#     Print each result.
