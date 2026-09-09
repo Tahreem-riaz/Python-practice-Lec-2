@@ -104,3 +104,7 @@ print(word[-3])    # Third-last character
 #
 #     Use negative slicing to extract the last four
 #     characters.
+
+word = "Programming"
+
+print(word[-4:])
