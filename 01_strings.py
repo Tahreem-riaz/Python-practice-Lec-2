@@ -71,3 +71,4 @@ print("4.\tJavaScript")
 #
 #     Use an appropriate escape sequence.
 
+print("The teacher said, \"Practice Python every day.\"")
