@@ -37,3 +37,13 @@ print(language[-1])   # Last character
 #
 #     Then access the same positions using negative
 #     indexes where possible.
+
+word = "COMPUTER"
+
+print(word[1])     # O
+print(word[4])     # U
+print(word[6])     # E
+
+print(word[-7])    # O
+print(word[-4])    # U
+print(word[-2])    # E
