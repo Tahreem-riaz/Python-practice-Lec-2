@@ -58,3 +58,11 @@ print(word[-2])    # E
 #     - The first five characters
 #     - A middle portion
 #     - The last five characters
+
+sentence = "Python is easy to learn"
+
+print(sentence[:5])      # First five characters
+print(sentence[7:13])    # Middle portion
+print(sentence[-5:])     # Last five characters
+
+# ------------------------------------------
