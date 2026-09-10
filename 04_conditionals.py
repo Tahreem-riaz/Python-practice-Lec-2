@@ -32,4 +32,7 @@ temperature = 38
 
 if temperature > 35:
     print("High Temperature")
-    
+
+# ==========================================
+# PART B: IF-ELSE
+# ==========================================
