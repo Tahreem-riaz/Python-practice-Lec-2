@@ -22,3 +22,8 @@ if age >= 18:
     print("Eligible to vote")
 
 # ------------------------------------------
+
+# Q2. Create a variable containing a temperature.
+#
+#     If the temperature is above 35, print:
+#     "High Temperature"
