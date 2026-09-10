@@ -56,3 +56,7 @@ print(sentence.find("Python"))
 #
 #     Use an appropriate function or operation to
 #     check whether it contains the "@" symbol.
+
+email = "student@gmail.com"
+
+print("@" in email)
