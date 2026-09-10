@@ -73,3 +73,11 @@ print("@" in email)
 #     - Convert it to uppercase
 #
 #     Print the results.
+
+product = "   Wireless Mouse   "
+
+clean_product = product.strip()
+
+print(clean_product)
+print(len(clean_product))
+print(clean_product.upper())
