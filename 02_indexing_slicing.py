@@ -120,3 +120,11 @@ print(word[-4:])
 #     a shorter version of the sentence.
 #
 #     Try to extract meaningful portions of the text.
+
+sentence = "I love learning Python programming"
+
+print(sentence[0])        # First character
+print(sentence[:6])       # "I love"
+print(sentence[13:19])    # "Python"
+print(sentence[-11:])     # "programming"
+
