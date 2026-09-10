@@ -101,3 +101,13 @@ print(sentence.count("e"))
 # ==========================================
 # PART D: PRACTICE
 # ==========================================
+
+# Q7. Create a username and perform several operations
+#     on it.
+#
+#     Display:
+#     - Original username
+#     - Length
+#     - Uppercase version
+#     - Lowercase version
+
