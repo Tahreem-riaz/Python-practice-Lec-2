@@ -35,3 +35,12 @@ print(len(sentence))
 # ==========================================
 # PART B: SEARCHING & COUNTING
 # ==========================================
+
+# Q3. Create a sentence containing a word multiple
+#     times.
+#
+#     Find:
+#     - How many times the word appears
+#     - The position where the first occurrence starts
+#
+#     Print both results.
