@@ -41,3 +41,12 @@ if temperature > 35:
 #
 #     If the marks are 50 or above, print "Passed".
 #     Otherwise, print "Failed".
+
+marks = 75
+
+if marks >= 50:
+    print("Passed")
+else:
+    print("Failed")
+
+# ------------------------------------------
