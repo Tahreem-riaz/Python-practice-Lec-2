@@ -91,3 +91,9 @@ print(clean_product.upper())
 #     - Number of a particular character
 #
 #     Print all three results.
+
+sentence = "Python is very easy"
+
+print(len(sentence))
+print(sentence.count(" "))
+print(sentence.count("e"))
