@@ -32,3 +32,6 @@ sentence = "I am learning Python"
 print(sentence)
 print(len(sentence))
 
+# ==========================================
+# PART B: SEARCHING & COUNTING
+# ==========================================
