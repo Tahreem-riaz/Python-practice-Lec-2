@@ -19,3 +19,10 @@ Topics: String Functions and String Operations
 language = "Python"
 
 print(len(language))
+
+# ------------------------------------------
+
+# Q2. Create a sentence.
+#
+#     Use len() to find its length.
+#     Print the sentence and its length.
