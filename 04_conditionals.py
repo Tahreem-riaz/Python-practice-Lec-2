@@ -36,3 +36,8 @@ if temperature > 35:
 # ==========================================
 # PART B: IF-ELSE
 # ==========================================
+
+# Q3. Create a variable containing a student's marks.
+#
+#     If the marks are 50 or above, print "Passed".
+#     Otherwise, print "Failed".
