@@ -81,3 +81,13 @@ clean_product = product.strip()
 print(clean_product)
 print(len(clean_product))
 print(clean_product.upper())
+
+# ------------------------------------------
+
+# Q6. Create a sentence and determine:
+#
+#     - Its length
+#     - Number of spaces
+#     - Number of a particular character
+#
+#     Print all three results.
