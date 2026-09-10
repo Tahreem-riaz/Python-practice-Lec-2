@@ -60,3 +60,16 @@ print(sentence.find("Python"))
 email = "student@gmail.com"
 
 print("@" in email)
+
+# ==========================================
+# PART C: COMBINING FUNCTIONS
+# ==========================================
+
+# Q5. Create a product name containing extra spaces.
+#
+#     Use string operations/functions to:
+#     - Remove the extra spaces
+#     - Find its length
+#     - Convert it to uppercase
+#
+#     Print the results.
