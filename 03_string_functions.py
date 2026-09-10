@@ -44,3 +44,8 @@ print(len(sentence))
 #     - The position where the first occurrence starts
 #
 #     Print both results.
+
+sentence = "Python is easy. I love Python because Python is useful."
+
+print(sentence.count("Python"))
+print(sentence.find("Python"))
