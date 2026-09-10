@@ -112,3 +112,11 @@ print(word[-4:])
 # ==========================================
 # PART D: CHALLENGE
 # ==========================================
+
+# Q8. Create a string containing your favorite
+#     programming-related sentence.
+#
+#     Use indexing and slicing together to create
+#     a shorter version of the sentence.
+#
+#     Try to extract meaningful portions of the text.
