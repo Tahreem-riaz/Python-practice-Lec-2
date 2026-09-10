@@ -111,3 +111,9 @@ print(sentence.count("e"))
 #     - Uppercase version
 #     - Lowercase version
 
+username = "Tahreem"
+
+print(username)
+print(len(username))
+print(username.upper())
+print(username.lower())
