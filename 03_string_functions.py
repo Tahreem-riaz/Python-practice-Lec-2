@@ -15,3 +15,7 @@ Topics: String Functions and String Operations
 #
 #     Find and print the number of characters in it
 #     using len().
+
+language = "Python"
+
+print(len(language))
