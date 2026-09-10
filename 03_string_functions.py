@@ -49,3 +49,10 @@ sentence = "Python is easy. I love Python because Python is useful."
 
 print(sentence.count("Python"))
 print(sentence.find("Python"))
+
+# ------------------------------------------
+
+# Q4. Create a string containing an email address.
+#
+#     Use an appropriate function or operation to
+#     check whether it contains the "@" symbol.
