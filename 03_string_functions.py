@@ -26,3 +26,9 @@ print(len(language))
 #
 #     Use len() to find its length.
 #     Print the sentence and its length.
+
+sentence = "I am learning Python"
+
+print(sentence)
+print(len(sentence))
+
