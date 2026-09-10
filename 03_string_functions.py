@@ -97,3 +97,7 @@ sentence = "Python is very easy"
 print(len(sentence))
 print(sentence.count(" "))
 print(sentence.count("e"))
+
+# ==========================================
+# PART D: PRACTICE
+# ==========================================
