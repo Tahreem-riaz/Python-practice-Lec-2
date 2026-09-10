@@ -27,3 +27,9 @@ if age >= 18:
 #
 #     If the temperature is above 35, print:
 #     "High Temperature"
+
+temperature = 38
+
+if temperature > 35:
+    print("High Temperature")
+    
