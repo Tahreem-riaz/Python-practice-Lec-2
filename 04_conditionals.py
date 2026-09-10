@@ -15,3 +15,10 @@ Topics: if, elif, else, Comparison and Logical
 #
 #     If the age is 18 or above, print:
 #     "Eligible to vote"
+
+age = 20
+
+if age >= 18:
+    print("Eligible to vote")
+
+# ------------------------------------------
