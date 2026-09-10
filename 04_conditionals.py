@@ -10,3 +10,8 @@ Topics: if, elif, else, Comparison and Logical
 # ==========================================
 # PART A: IF STATEMENT
 # ==========================================
+
+# Q1. Create a variable containing a person's age.
+#
+#     If the age is 18 or above, print:
+#     "Eligible to vote"
