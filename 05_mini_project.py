@@ -83,4 +83,8 @@ if has_number:
     print("Password contains a number.")
 else:
     print("Password must contain at least one number.")
-    
+
+
+ # --------------------------------------------------------
+# STEP 5: FINAL RESULT
+# --------------------------------------------------------   
