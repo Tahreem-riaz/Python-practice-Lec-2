@@ -95,3 +95,11 @@ else:
 # ==========================================
 # PART D: LOGICAL CONDITIONS
 # ==========================================
+
+# Q6. A website allows access when:
+#
+#     - The user has entered the correct password
+#     - AND the account is active
+#
+#     Create suitable variables and use a logical
+#     operator to decide whether access is allowed.
