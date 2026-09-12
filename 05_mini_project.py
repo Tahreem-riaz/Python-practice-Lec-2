@@ -70,3 +70,17 @@ print("Last character:", last_character)
 # - Password contains at least one number
 #
 # Display an appropriate message.
+
+password_length = len(password)
+has_number = any(character.isdigit() for character in password)
+
+if password_length >= 8:
+    print("\nPassword has at least 8 characters.")
+else:
+    print("\nPassword must have at least 8 characters.")
+
+if has_number:
+    print("Password contains a number.")
+else:
+    print("Password must contain at least one number.")
+    
