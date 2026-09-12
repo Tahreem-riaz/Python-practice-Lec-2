@@ -128,3 +128,14 @@ else:
 #
 #     or:
 #     "Invalid Credentials"
+
+correct_username = "student"
+correct_password = "python123"
+
+username = input("Enter username: ")
+password = input("Enter password: ")
+
+if username == correct_username and password == correct_password:
+    print("Login Successful")
+else:
+    print("Invalid Credentials")
