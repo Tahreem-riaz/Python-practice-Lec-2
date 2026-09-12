@@ -32,3 +32,6 @@ password = input("Enter your password: ")
 # --------------------------------------------------------
 # STEP 2: CLEAN THE USERNAME
 # --------------------------------------------------------
+
+# Remove unnecessary spaces from the username
+# and convert it to a consistent case.
