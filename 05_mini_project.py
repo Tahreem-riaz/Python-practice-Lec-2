@@ -25,3 +25,6 @@ print("=" * 50)
 # Ask the user to enter:
 # - Username
 # - Password
+
+username = input("Enter your username: ")
+password = input("Enter your password: ")
