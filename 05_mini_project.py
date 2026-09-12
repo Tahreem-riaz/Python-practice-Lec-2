@@ -28,3 +28,7 @@ print("=" * 50)
 
 username = input("Enter your username: ")
 password = input("Enter your password: ")
+
+# --------------------------------------------------------
+# STEP 2: CLEAN THE USERNAME
+# --------------------------------------------------------
