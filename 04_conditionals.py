@@ -55,3 +55,12 @@ else:
 #
 #     Check whether the number is positive or negative.
 #     Handle zero as well.
+
+number = float(input("Enter a number: "))
+
+if number > 0:
+    print("Positive")
+elif number < 0:
+    print("Negative")
+else:
+    print("Zero")
