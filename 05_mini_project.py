@@ -59,3 +59,7 @@ print("Username:", username)
 print("Length:", username_length)
 print("First character:", first_character)
 print("Last character:", last_character)
+
+# --------------------------------------------------------
+# STEP 4: CHECK PASSWORD
+# --------------------------------------------------------
