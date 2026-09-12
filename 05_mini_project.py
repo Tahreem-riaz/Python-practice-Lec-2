@@ -17,3 +17,7 @@ Concepts Used:
 print("=" * 50)
 print("        USERNAME & PASSWORD VALIDATOR")
 print("=" * 50)
+
+# --------------------------------------------------------
+# STEP 1: GET USER INFORMATION
+# --------------------------------------------------------
