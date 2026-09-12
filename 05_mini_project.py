@@ -100,3 +100,7 @@ if username_length > 0 and password_length >= 8 and has_number:
 else:
     print("\nValidation Failed!")
     print("Please check your username and password.")
+
+# --------------------------------------------------------
+# EXTRA CHALLENGE
+# --------------------------------------------------------
