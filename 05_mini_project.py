@@ -38,3 +38,7 @@ password = input("Enter your password: ")
 
 username = username.strip()
 username = username.lower()
+
+# --------------------------------------------------------
+# STEP 3: ANALYZE THE USERNAME
+# --------------------------------------------------------
