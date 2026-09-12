@@ -118,7 +118,7 @@ else:
 # PART E: CHALLENGE
 # ==========================================
 
-# Q9. Ask the user for a username and password.
+# Q7. Ask the user for a username and password.
 #
 #     Check whether both match the values you define
 #     in the program.
