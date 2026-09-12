@@ -104,3 +104,9 @@ else:
 # --------------------------------------------------------
 # EXTRA CHALLENGE
 # --------------------------------------------------------
+
+# Improve your validator by checking:
+# - Password contains an uppercase letter
+# - Password contains a lowercase letter
+# - Password contains a special character
+# - Username does not contain spaces
