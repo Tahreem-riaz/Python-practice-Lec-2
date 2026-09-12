@@ -103,3 +103,28 @@ else:
 #
 #     Create suitable variables and use a logical
 #     operator to decide whether access is allowed.
+correct_password = True
+account_active = True
+
+if correct_password and account_active:
+    print("Access Allowed")
+else:
+    print("Access Denied")
+
+
+# ------------------------------------------
+
+# ==========================================
+# PART E: CHALLENGE
+# ==========================================
+
+# Q9. Ask the user for a username and password.
+#
+#     Check whether both match the values you define
+#     in the program.
+#
+#     Display:
+#     "Login Successful"
+#
+#     or:
+#     "Invalid Credentials"
