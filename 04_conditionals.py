@@ -68,3 +68,12 @@ else:
 # ==========================================
 # PART C: IF-ELIF-ELSE
 # ==========================================
+
+# Q5. Create a grading program.
+#
+#     Use marks to display:
+#
+#     80 or above  -> Excellent
+#     60-79        -> Good
+#     50-59        -> Average
+#     Below 50     -> Needs Improvement
