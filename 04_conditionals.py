@@ -50,3 +50,8 @@ else:
     print("Failed")
 
 # ------------------------------------------
+
+# Q4. Ask the user to enter a number.
+#
+#     Check whether the number is positive or negative.
+#     Handle zero as well.
