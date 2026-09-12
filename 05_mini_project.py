@@ -42,3 +42,10 @@ username = username.lower()
 # --------------------------------------------------------
 # STEP 3: ANALYZE THE USERNAME
 # --------------------------------------------------------
+
+# Find:
+# - Username length
+# - First character
+# - Last character
+#
+# Display the information.
