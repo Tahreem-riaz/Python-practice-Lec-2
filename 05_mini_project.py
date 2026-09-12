@@ -87,4 +87,9 @@ else:
 
  # --------------------------------------------------------
 # STEP 5: FINAL RESULT
-# --------------------------------------------------------   
+# --------------------------------------------------------
+# 
+# # If the username and password satisfy your conditions,
+# display a success message.
+#
+# Otherwise, display a suitable warning.   
