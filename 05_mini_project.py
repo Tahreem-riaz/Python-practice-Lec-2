@@ -53,3 +53,9 @@ username = username.lower()
 username_length = len(username)
 first_character = username[0]
 last_character = username[-1]
+
+print("\nUsername Information")
+print("Username:", username)
+print("Length:", username_length)
+print("First character:", first_character)
+print("Last character:", last_character)
