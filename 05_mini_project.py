@@ -63,3 +63,10 @@ print("Last character:", last_character)
 # --------------------------------------------------------
 # STEP 4: CHECK PASSWORD
 # --------------------------------------------------------
+
+# Create conditions to check whether:
+#
+# - Password has at least 8 characters
+# - Password contains at least one number
+#
+# Display an appropriate message.
