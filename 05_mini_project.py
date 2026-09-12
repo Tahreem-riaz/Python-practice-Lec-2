@@ -110,3 +110,28 @@ else:
 # - Password contains a lowercase letter
 # - Password contains a special character
 # - Username does not contain spaces
+
+has_uppercase = any(character.isupper() for character in password)
+has_lowercase = any(character.islower() for character in password)
+has_special = any(not character.isalnum() for character in password)
+username_has_spaces = " " in username
+
+if has_uppercase:
+    print("Password has an uppercase letter.")
+else:
+    print("Password needs an uppercase letter.")
+
+if has_lowercase:
+    print("Password has a lowercase letter.")
+else:
+    print("Password needs a lowercase letter.")
+
+if has_special:
+    print("Password has a special character.")
+else:
+    print("Password needs a special character.")
+
+if username_has_spaces:
+    print("Username should not contain spaces.")
+else:
+    print("Username does not contain spaces.")
