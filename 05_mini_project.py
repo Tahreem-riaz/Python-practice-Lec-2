@@ -35,3 +35,6 @@ password = input("Enter your password: ")
 
 # Remove unnecessary spaces from the username
 # and convert it to a consistent case.
+
+username = username.strip()
+username = username.lower()
