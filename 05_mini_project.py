@@ -49,3 +49,7 @@ username = username.lower()
 # - Last character
 #
 # Display the information.
+
+username_length = len(username)
+first_character = username[0]
+last_character = username[-1]
