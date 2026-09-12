@@ -77,3 +77,17 @@ else:
 #     60-79        -> Good
 #     50-59        -> Average
 #     Below 50     -> Needs Improvement
+
+marks = 85
+
+if marks >= 80:
+    print("Excellent")
+elif marks >= 60:
+    print("Good")
+elif marks >= 50:
+    print("Average")
+else:
+    print("Needs Improvement")
+
+
+# ------------------------------------------
