@@ -58,5 +58,14 @@ By completing this lecture, you will learn how to:
 
 ---
 
+## 🚀 Mini Project Overview
+
+### 🛠️ Interactive Text Analyzer & Decision Engine (`05_mini_project.py`)
+
+The final file integrates all Lecture 02 concepts into an interactive Python program.
+* **Key Concepts Used:** Strings, Indexing, Slicing, String Functions, Conditional Logic (`if`/`elif`/`else`), and User Input (`input()`).
+* **Functionality:** Accepts user text input, analyzes string characteristics (length, casing, sub-string presence), extracts key segments via slicing, and executes conditional logic based on calculated metrics.
+
+---
 
 
