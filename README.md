@@ -44,5 +44,19 @@ The lecture focuses on working with strings, indexing, slicing, built-in string 
 
 ---
 
+## 🎯 Learning Goals
+
+By completing this lecture, you will learn how to:
+* Create and manipulate multi-line and single-line strings.
+* Apply common string methods and escape sequences.
+* Access characters using both positive and negative indexing.
+* Extract custom substrings using slicing and step modifiers.
+* Calculate string lengths and execute text transformations.
+* Implement decision-making logic using `if`, `elif`, and `else`.
+* Combine comparison and logical operators to build robust conditions.
+* Build interactive Python programs based on user input and dynamic logic.
+
+---
+
 
 
