@@ -68,4 +68,15 @@ The final file integrates all Lecture 02 concepts into an interactive Python pro
 
 ---
 
+## 📈 Learning Progress
+
+- [x] **Lecture 01** — Python Fundamentals
+- [x] **Lecture 02** — Strings & Conditional Statements
+- [ ] **Lecture 03** — Pending
+- [ ] **Lecture 04** — Pending
+- [ ] **Lecture 05** — Pending
+- [ ] **Lecture 06** — Pending
+- [ ] **Lecture 07** — Pending
+- [ ] **Lecture 08** — Pending
+- [ ] **Lecture 09** — Pending
 
