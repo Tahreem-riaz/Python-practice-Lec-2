@@ -32,5 +32,17 @@ The lecture focuses on working with strings, indexing, slicing, built-in string 
 
 ---
 
+## 📂 Practice Files
+
+| File | Topics | Questions |
+| :--- | :--- | :---: |
+| [`01_strings.py`](01_strings.py) | Strings, String Methods, Escape Sequences | `12` |
+| [`02_indexing_and_slicing.py`](02_indexing_and_slicing.py) | Positive/Negative Indexing, Slicing, Step Values | `12` |
+| [`03_string_functions.py`](03_string_functions.py) | Built-in Functions, Length, String Manipulation | `10` |
+| [`04_conditional_statements.py`](04_conditional_statements.py) | `if`, `elif`, `else`, Logical & Comparison Conditions | `12` |
+| [`05_mini_project.py`](05_mini_project.py) | Interactive Text Analyzer & Decision Engine | `Mini Project` |
+
+---
+
 
 
