@@ -6,3 +6,31 @@ The lecture focuses on working with strings, indexing, slicing, built-in string 
 
 ---
 
+## 📚 Topics Covered
+
+### 1. Strings
+* Creating Strings (Single, Double, Multi-line)
+* String Methods
+* Escape Sequences (`\n`, `\t`)
+
+### 2. Indexing & Slicing
+* Positive Indexing
+* Negative Indexing
+* String Slicing (`[start:end:step]`)
+* Negative Slicing & String Reversal
+
+### 3. String Functions
+* Built-in Functions (`len()`, `type()`)
+* String Transformations (`.lower()`, `.upper()`, `.find()`, `.replace()`)
+* Combining Functions with Operations
+
+### 4. Conditional Statements
+* `if` Statements
+* `elif` Chains
+* `else` Fallbacks
+* Nested Conditions & Logical Operators
+
+---
+
+
+
